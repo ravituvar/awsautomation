@@ -10,3 +10,4 @@ Script to sync local directory to S3 bucket and configure Route53 and CDN.
 - List Buckets
 - List Bucket Objects
 
+
